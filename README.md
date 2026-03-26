@@ -22,9 +22,11 @@ The goal is to compare:
 
 The tilt dynamics are modeled as:
 
+$$
 \[
 I \ddot{\theta} + c \dot{\theta} + k \theta = m h \frac{v^2}{R}
 \]
+$$
 
 This represents:
 - Inertia resisting motion  
